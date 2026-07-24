@@ -1,0 +1,6 @@
+{
+  "name": "ELIZABETH IMBA NAILS ACADEMY",
+  "description": "Sitio web oficial Premium de Elizabeth Imba Nails Academy: Servicios VIP de belleza, estética profesional y Cursos Certificados en Uñas Acrílicas, Polygel, Softgel y Pestañas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
